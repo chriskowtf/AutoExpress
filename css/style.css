@@ -363,7 +363,7 @@ h5{
     color: #21062A;
     display: flex;
     align-items: center;
-    margin-bottom: 49px;
+    margin-bottom: 73px;
   }
   .span3{
     display: block;
@@ -621,10 +621,10 @@ input[type=text]{
         font-size: 7.59vw;
     }
 }
-@media screen and (max-width: 394px){
+@media screen and (max-width: 395px){
 h1 {
     font-size: 13.95vw;
-    line-height: 70px;
+    line-height: 60px;
     margin: 20px 0px;
 }
 h2 {
