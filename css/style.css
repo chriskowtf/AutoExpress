@@ -621,10 +621,9 @@ input[type=text]{
         font-size: 7.59vw;
     }
 }
-@media screen and (max-width: 395px){
+@media screen and (max-width: 394px){
 h1 {
-    font-size: 13.22vw;
-    line-height: 60px;
+    font-size: 18.02vw;
     margin: 20px 0px;
 }
 h2 {
@@ -648,4 +647,10 @@ h2 {
     .text-info-button p {
         margin: 0 auto;
     }
+}
+@media screen and (max-width: 324px){
+h1 {
+    font-size: 17.02vw;
+    margin: 20px 0px;
+}
 }
